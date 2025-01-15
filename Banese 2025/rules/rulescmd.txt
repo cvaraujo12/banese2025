@@ -1,0 +1,90 @@
+Título: Criação Completa de Materiais de Estudo e Guia Personalizado para Concurso BANESE 2025 (CESGRANRIO) - Foco em TDAH Desatento
+
+Contexto:
+
+Concurso: BANESE 2025 (Banco do Estado de Sergipe)
+
+Banca: CESGRANRIO
+
+Público-alvo: Candidato com TDAH (predominantemente desatento)
+
+Necessidade: Materiais de estudo completos, acessíveis e personalizados, incluindo simulados, resumos, materiais de apoio e um guia de estudos, tudo adaptado para facilitar a concentração e o aprendizado de pessoas com TDAH desatento.
+
+Objetivo: Gerar um conjunto de materiais de estudo completo, que permita ao candidato se preparar de forma eficaz e adaptada às suas necessidades, com um guia de estudos que utilize os resultados dos simulados e o material criado para otimizar o processo de aprendizagem.
+
+Instruções Específicas:
+
+Resumos:
+
+Abrangência: Criar resumos concisos de todo o conteúdo programático do concurso BANESE 2025, com foco nos tópicos mais importantes e recorrentes.
+
+Formato: Organizar os resumos por disciplina e tópico, com uma linguagem clara e objetiva, evitando textos longos e complexos.
+
+Destaques: Utilizar negrito e itálico para destacar os pontos principais e as palavras-chave, facilitando a memorização.
+
+Acessibilidade: Aplicar as diretrizes de acessibilidade (fontes claras, contraste adequado, espaçamento entre linhas, etc.).
+
+Formato: Salvar os resumos em formato PDF, com um índice interativo para facilitar a navegação.
+
+Materiais de Apoio:
+
+Flashcards: Criar flashcards digitais com definições, conceitos-chave e fórmulas, para ajudar na memorização rápida e eficiente dos conteúdos.
+
+Mapas Mentais: Desenvolver mapas mentais para organizar e conectar as informações, facilitando a visualização dos temas e a associação de ideias.
+
+Infográficos: Criar infográficos com informações relevantes, especialmente para temas que envolvam dados, estatísticas ou fluxogramas.
+
+Listas de Verificação: Elaborar listas de verificação para ajudar o candidato a acompanhar o progresso e manter o controle sobre os estudos.
+
+Formato: Salvar os flashcards, mapas mentais e infográficos em formatos compatíveis (PDF, imagens, etc.), de fácil acesso e visualização.
+
+Guia de Estudos Personalizado:
+
+Análise dos Simulados: Analisar o desempenho nos simulados (pontuação geral, dificuldades por disciplina e tópico, tipos de erros, tempo de resolução).
+
+Revisão Personalizada: Priorizar os tópicos e disciplinas com maior dificuldade identificados na análise dos simulados, sugerindo materiais de revisão específicos.
+
+Estratégias para TDAH Desatento: Incorporar técnicas de estudo adaptadas para TDAH desatento, como quebra de tarefas, Pomodoro, revisões espaçadas, mapas mentais, pausas ativas e organização do ambiente de estudo.
+
+Planejamento: Criar um cronograma de estudo semanal, levando em consideração os pontos fortes e fracos identificados nos simulados e a necessidade de tempo para revisão e prática.
+
+Gestão Emocional: Incluir dicas para lidar com o estresse e a ansiedade durante a preparação, incentivando a autocompaixão e o estabelecimento de recompensas.
+
+Uso dos Materiais: Integrar o uso dos resumos, flashcards, mapas mentais e outros materiais de apoio ao plano de estudos.
+
+Formato: Salvar o guia em PDF acessível, com um índice interativo e um layout limpo e organizado.
+
+Formatação (Acessibilidade):
+
+Fonte: Utilizar fonte de fácil leitura, como Arial ou Verdana, em tamanho 12 ou 14. Evitar fontes decorativas ou muito pequenas.
+
+Espaçamento: Ajustar o espaçamento entre linhas (1.5 ou 2.0) e parágrafos para evitar blocos densos de texto.
+
+Cores: Usar cores de alto contraste para texto e fundo (por exemplo, texto preto em fundo branco). Evitar cores vibrantes ou combinações que dificultem a leitura.
+
+Cabeçalhos: Utilizar títulos e subtítulos claros (H1, H2, H3) para organizar o conteúdo e facilitar a navegação.
+
+Marcadores: Usar listas com marcadores ou números para organizar informações e facilitar a leitura de listas e tópicos.
+
+Imagens e Gráficos: Incluir imagens e gráficos simples e relevantes para ilustrar conceitos, mas sempre acompanhados de texto alternativo (alt text) para acessibilidade.
+
+Layout: Adotar um layout limpo e consistente, com margens adequadas e evitando excesso de informações visuais.
+
+Formato de Saída:
+
+Formato: PDFs acessíveis para simulados, resumos e guia de estudos. Os materiais de apoio (flashcards, mapas mentais, etc.) devem ser gerados em formatos adequados para fácil visualização e uso (PDF, imagens, etc.).
+
+Documentos: Um PDF para cada simulado, um PDF para os resumos, materiais de apoio em formatos adequados e um PDF para o guia de estudos personalizado.
+
+Nomeação: Nomear os arquivos de forma clara e organizada (ex: "Simulado_1_BANESE_2025", "Resumos_BANESE_2025", "Flashcards_BANESE_2025", "Guia_Estudos_TDAH_BANESE_2025").
+
+Tom:
+
+Objetivo: Gerar um material completo, personalizado e acessível para auxiliar na preparação para o concurso.
+
+Personalizado: Adaptado às necessidades de um candidato com TDAH desatento.
+
+Informativo e Prático: Oferecendo informações úteis e ferramentas práticas para otimizar o estudo.
+
+Empático: Reconhecendo as dificuldades do aprendizado com TDAH e oferecendo soluções para superá-las.
+

@@ -1,0 +1,93 @@
+CONHECIMENTOS BÁSICOS
+LÍNGUA PORTUGUESA I: 1 - Compreensão de textos. 2 - Tipologia textual. 3 - Ortografia. 4 - Acentuação gráfica. 5 - Emprego
+do sinal indicativo de crase. 6 - Formação, classe e emprego de palavras. 7 - Sintaxe da oração e do período. 8 - Pontuação. 9 -
+Concordância nominal e verbal. 10 - Colocação pronominal. 11 - Regência nominal e verbal.12 - Relações de sinonímia e
+antonímia.13 - Redação oficial: escrita de textos formais.
+MATEMÁTICA: 1 - Números inteiros, racionais e reais; problemas de contagem. 2 - Sistema legal de medidas. 3 - Razões e
+proporções; divisão proporcional; regras de três simples e compostas; porcentagens. 4 - Lógica proposicional. 5 - Noções de
+conjuntos. 6 - Relações e funções; Funções polinomiais; Funções exponenciais e logarítmicas. 7 - Matrizes. 8 - Determinantes.
+9 - Sistemas lineares. 10 – Sequências. 11 - Progressões aritméticas e progressões geométricas.
+CONHECIMENTOS SOBRE O ESTADO DE SERGIPE I: 1. Sergipe no contexto nacional e regional brasileiro. 2. Processo de
+ocupação e povoamento do território sergipano. 3. Presença de quilombolas e indígenas no estado. 4. Evolução das economias
+fundadoras. 5. Regiões geoeconômicas. 6. Estrutura do poder na sociedade colonial sergipana. 7. Organização do espaço nas
+fases da República. 8. Condicionantes geoambientais (clima, relevo, solo, hidrografia, vegetação). 9. Estrutura e dinâmica
+populacionais. 10. Divisão político-administrativa. 11. Regionalização aplicada pelo IBGE. 12. Rede e hierarquia urbanas. 13.
+Formação metropolitana de Aracaju. 14. Política, sociedade e economia contemporâneas. 15. Potencialidades e perspectivas
+para o desenvolvimento econômico e social. 16. Formação e expressão da cultura e do turismo.
+NOÇÕES DE INFORMÁTICA: 1 - Noções de sistemas operacionais – Windows 11. 2 - Edição de textos, planilhas e
+apresentações (ambientes Microsoft Office – Word, Excel e PowerPoint - versão O365). 3 - Segurança da informação:
+fundamentos, conceitos e mecanismos de segurança. 4 - Proteção de estações de trabalho: Controle de dispostivos USB,
+hardening, antimalware e firewall pessoal. 5 - Conceitos de organização e de gerenciamento de informações, arquivos, pastas e
+programas. 6 - Redes de computadores: Conceitos básicos, ferramentas, aplicativos e procedimentos de Internet e intranet. 7 -
+Navegador Web (Microsoft Edge versão 91 e Google Chrome Version 131.0.6778.140), busca e pesquisa na Web. 8 - Correio
+eletrônico, grupos de discussão, fóruns e wikis. 9 - Redes Sociais (Twitter, Facebook, Linkedin, WhatsApp, YouTube, Instagram
+e Telegram). 10 - Visão geral sobre sistemas de suporte à decisão e inteligência de negócio. 11 - Fundamentos sobre análise de
+dados. 12 - Conceitos de educação a distância. 13 - Conceitos de tecnologias e ferramentas multimídia, de reprodução de áudio
+e vídeo. 14 - Ferramentas de produtividade e trabalho a distância (Microsoft Teams, Google Meet e Google Drive).
+CONHECIMENTOS ESPECÍFICOS
+MATEMÁTICA FINANCEIRA: 1 - Conceitos gerais: valor do dinheiro no tempo, valor presente, valor futuro, juro, taxa de juro,
+prazo da operação. 2- Juros Simples. 3 - Juros Compostos. 4 - Séries Uniformes. 5 - Equivalência de Capitais em fluxos regulares
+ou irregulares: VP, VF, prazos e taxas de retorno. 6 - Sistemas de Amortização de qualquer tipo, incluindo os sistemas com
+amortizações constantes (SAC) e com prestações constantes (francês ou PRICE). 7 - Descontos: racional composto e comercial
+simples. 8 - Sequências numéricas: leis de formação expressas de forma geral (em função da posição do termo) ou de forma
+recursiva (em função de um ou mais termos anteriores); progressões aritméticas; progressões geométricas.
+CONHECIMENTOS BANCÁRIOS: 1 - Sistema Financeiro Nacional: Estrutura do Sistema Financeiro Nacional; Órgãos
+normativos e instituições supervisoras, executoras e operadoras. 2 - Mercado financeiro e seus desdobramentos (mercados
+monetários, de crédito, de capitais e cambial). 3 - Moeda e política monetária: Taxa SELIC e instrumentos de política monetária;
+políticas monetárias não-convencionais (Quantitative Easing). 4- Orçamento público, títulos do Tesouro Nacional e dívida
+pública. 5 - Produtos Bancários: Noções de cartões de crédito e débito, crédito direto ao consumidor, crédito rural, poupança,
+capitalização, previdência, consórcio, investimentos e seguros. 6 - Noções de Mercado de capitais. 7 - Noções de Mercado de
+Câmbio: Instituições autorizadas a operar e operações básicas. 8 - Regimes de taxas de câmbio fixas, flutuantes e regimes
+intermediários. 9 - Taxas de câmbio nominais e reais; 10 - Impactos das taxas de câmbio sobre as exportações e
+importações. 11 - Diferencial de juros interno e externo, prêmios de risco, fluxo de capitais e seus impactos sobre as taxas de
+câmbio. 12 - Dinâmica do Mercado: Operações no mercado interbancário. 13 - Mercado bancário: Operações de tesouraria,
+varejo bancário e recuperação de crédito. 14 - Taxas de juros de curto prazo e a curva de juros; taxas de juros nominais e
+reais. 15 - Garantias do Sistema Financeiro Nacional: aval; fiança; penhor mercantil; alienação fiduciária; hipoteca; fianças
+bancárias.
+ATENDIMENTO, VENDAS E NEGOCIAÇÂO: 1 - Ações para aumentar o valor percebido pelo cliente. 2 - Gestão da experiência
+do cliente. 3 - Técnicas de vendas: da pré-abordagem ao pós-vendas. 4 – Etiqueta empresarial: comportamento, aparência,
+cuidados no atendimento. 5 - Ética e conduta profissional em vendas. 6 - Clientecentrismo. 7 - Padrões de qualidade no
+atendimento aos clientes, escuta ativa e empática, clareza, objetividade e cortesia na comunicação. 8 – Atendimento qualificado
+por canais remotos. 9 - Comportamento do consumidor e sua relação com vendas e negociação. 10 - Noções de estratégia
+empresarial: análise de mercado, metas, forças competitivas, imagem institucional, identidade e posicionamento. 11 -
+Segmentação de mercado. 12 - Ações para aumentar o valor percebido pelo cliente. 13 - Noções de Marketing de
+Relacionamento. 14 -Produto,Preço,Praça,Promoção. 15 - Aprendizagem e sustentabilidade organizacional. 16 - Características
+dos serviços: intangibilidade, inseparabilidade, variabilidade e perecibilidade dos produtos bancários. 17 - Manejo de carteira de
+Pessoa Física e de Pessoa Jurídica. 18 - Política de Relacionamento com o Cliente: Resolução nº 4.949, de 30 de setembro de
+2021 atualizada pela Resolução CMN nº 5.117/2024. 19 - Resolução CMN nº 4.860, de 23 de outubro de 2020, que dispõe sobre
+a constituição e o funcionamento de componente organizacional de ouvidoria pelas instituições financeiras e demais instituições
+autorizadas a funcionar pelo Banco Central do Brasil. 20 - Código de Proteção e Defesa do Consumidor: Lei nº 8.078/1990
+(versão atualizada). 21 - Autorregulação bancária: Consolidação dos Normativos de Autorregulação (Normativo SARB nº
+27/2023), Normativo SARB nº 21/2019 - Programa de Integridade para Prevenção à Corrupção e a Atos Lesivos à Administração
+Pública Nacional ou Estrangeira - 22 - Estatuto da Pessoa Idosa e direitos aos acompanhantes das pessoas com prioridade de
+atendimento: Lei n° 10.741 de 2003, Lei nº 13.466 de 2017, 14.364 de 2022 e Lei nº 14.423 de 2022.
+ATUALIDADES DO MERCADO FINANCEIRO:1 - Os bancos na Era Digital: Atualidade, tendências e desafios. 2 - Open banking.
+3 - Novos modelos de negócios. 4 –Fintechs, startups e big techs. 5 - Sistema de bancos-sombra (Shadow banking). 6- Funções
+da moeda. 7 - O dinheiro na era digital: Drex, blockchain, bitcoin e demais criptomoedas. 8 – Marketplace. 9 – Correspondentes
+bancários. 10 – Arranjos de pagamentos. 11 - Sistema de pagamentos instantâneos (PIX). 12 – Transformação digital no Sistema
+Financeiro.
+COMPORTAMENTOS ÉTICOS, DIVERSIDADE E ESG: 1 – Crime de lavagem de dinheiro: conceito e etapas; Prevenção e
+combate ao crime de lavagem de dinheiro: Lei nº 9.613/98 e suas alterações (Lei nº 12.683/2012 e Lei nº 14.478/2022); Circular
+nº 3.978, de 23 de janeiro de 2020, do Banco Central do Brasil (texto vigente após as atualizações da Circular BCB nº 4.005/2020,
+da Resolução BCB nº 119/2021, da Resolução BCB nº 282/2022, e da Resolução BCB nº 344/2023) e Carta Circular nº 4.001,
+de 29 de janeiro de 2020, do Banco Central do Brasil (texto vigente após as atualizações da Carta Circular BCB nº 4.037/2020 e
+da Instrução Normativa BCB nº 461/2024). Resolução CVM 50/2021 (com as alterações introduzidas pela resolução CVM Nº
+179/2023 e Resolução CVM 196/2023). 2 - Conceitos e medidas de enfrentamento ao assédio moral e sexual. 3 – Atitudes éticas,
+respeito, valores e virtudes; noções de ética empresarial e profissional. A gestão da ética nas empresas públicas e privadas.
+Código de Conduta Ética do BANESE (disponível em: https://ri.banese.com.br/governanca-corporativa/codigo-de-etica/). 4 -
+Segurança da informação: fundamentos, conceitos e mecanismos de segurança; Segurança cibernética: Resolução CMN nº
+4.893, de 26 de fevereiro de 2021 e sua alteração (Resolução CMN nº 5.117, de 25 de janeiro de 2024). 5 - Artigo 37 da
+Constituição Federal (Princípios constitucionais da Administração Pública: Princípios da legalidade, impessoalidade, moralidade,
+publicidade e eficiência). 6 - Sigilo Bancário: Lei Complementar nº 105/2001 e suas alterações. 7 - Lei Geral de Proteção de
+Dados Pessoais (LGPD): Lei nº 13.709, de 14 de agosto de 2018 e suas alterações (Lei nº 13.853/2019 e Lei nº 14.460/2022). 8
+- Legislação anticorrupção: Lei nº 12.846/2013 e Decreto nº 11.129/2022. 9 - Política de Responsabilidade Social, Ambiental e
+Climática do BANESE, aprovada pela Resolução da Diretoria nº 1220, de 08/04/2024 e Conselho de Administração em
+27/03/2024 (disponível em: https://ri.banese.com.br/governanca-corporativa/politicas/). 10 – Boas práticas de governança
+corporativa. 11 – Diversidade e Inclusão: Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com
+Deficiência): Lei nº 13.146, de 06 de julho de 2015. 12 - Lei n° 12.764 de 2012, Decreto nº 8.368/2014, sobre atendimento
+prioritário a pessoas com transtorno do espectro autista. 13 - Decreto nº 8.727 de 2016 dispõe sobre o uso do nome social e o
+reconhecimento da identidade de gênero de pessoas travestis e transexuais. 14 - Decreto nº 5.296 de 2004 relacionado à
+prioridade de atendimento às pessoas que especifica e promove a acessibilidade das pessoas portadoras de deficiência ou com
+mobilidade reduzida, Decreto nº 5.904 de 2006 sobre o direito da pessoa com deficiência visual de ingressar e permanecer em
+ambientes de uso coletivo acompanhada de cão-guia. 15 - Estatuto Nacional da Igualdade Racial. Lei nº 10.973/2004. 16 –
+Agenda 2030 e Objetivos de Desenvolvimento Sustentável (ODS)
