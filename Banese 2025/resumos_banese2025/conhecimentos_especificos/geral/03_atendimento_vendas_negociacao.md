@@ -1,4 +1,16 @@
-# Atendimento, Vendas e Negociação - BANESE 2025 🤝
+---
+title: "Atendimento, Vendas e Negociação"
+author: "BANESE 2025 - Conhecimentos Específicos"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
+# 🏦 Atendimento, Vendas e Negociação - BANESE 2025
+
+---
 
 ## 🎯 Guia Rápido
 - Foque no cliente
@@ -159,11 +171,11 @@
 - Autistas
 
 ### Legislação:
-- Lei 10.741/2003
-- Lei 13.146/2015
-- Decreto 5.296/2004
+> - Lei 10.741/2003
+> - Lei 13.146/2015
+> - Decreto 5.296/2004
 
-## 📌 Dicas de Estudo
+## 📌 Pontos para Memorizar
 1. Pratique atendimento
 2. Estude casos reais
 3. Conheça produtos

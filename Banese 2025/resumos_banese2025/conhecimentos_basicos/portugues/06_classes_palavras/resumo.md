@@ -1,4 +1,15 @@
+---
+title: "Classes de Palavras"
+author: "BANESE 2025 - Língua Portuguesa"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
 # Classes de Palavras 📚
+---
 
 ## 🎯 Guia Rápido
 - Identifique a função

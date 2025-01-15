@@ -1,13 +1,24 @@
-# Produtos Bancários - Padrão Cesgranrio
+---
+title: "Produtos Bancários"
+author: "BANESE 2025 - Conhecimentos Bancários"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
 
-## Conceitos Fundamentais e Aplicações Práticas
+# 💳 Produtos Bancários - Padrão Cesgranrio
 
-### 1. Produtos de Captação (Alta Incidência em Provas)
+---
 
-🎯 **Conceito-Chave:** São produtos que captam recursos dos clientes para o banco
-- **Aplicação Prática:** Essenciais para a estrutura de funding dos bancos
+## 📊 Conceitos Fundamentais e Aplicações Práticas
 
-**Produtos Principais e Características:**
+### 1. Produtos de Captação 🏦
+
+> **Conceito-Chave:** São produtos que captam recursos dos clientes para o banco
+
+📌 **Produtos Principais e Características:**
 
 1. Conta Corrente
    - **Contexto Bancário:** Principal porta de entrada para relacionamento
@@ -26,7 +37,7 @@
      * Data-base de aniversário
      * Garantia FGC
 
-### 2. Produtos de Crédito (Foco em Situações Práticas)
+### 2. Produtos de Crédito 💰
 
 **Contextualização Bancária:**
 - Análise dos 5 C's do crédito
@@ -51,14 +62,14 @@
 - Memorize as características principais
 - Entenda o contexto operacional
 
-### 3. Serviços Bancários (Aspectos Operacionais)
+### 3. Serviços Bancários 👥
 
 **Classificação por Regulamentação:**
 1. Serviços Essenciais
 2. Serviços Prioritários
 3. Serviços Especiais
 
-📝 **Exercício Modelo Cesgranrio:**
+🎯 **Exercício Modelo Cesgranrio:**
 Uma cliente do banco deseja aplicar R$ 50.000,00. Considerando seu perfil conservador e necessidade de liquidez diária, qual produto mais adequado?
 a) CDB
 b) Poupança

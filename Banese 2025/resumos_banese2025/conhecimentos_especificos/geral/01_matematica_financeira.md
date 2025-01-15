@@ -1,4 +1,16 @@
+---
+title: "Matemática Financeira"
+author: "BANESE 2025 - Conhecimentos Específicos"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
 # Matemática Financeira - BANESE 2025 💰
+
+---
 
 ## 🎯 Guia Rápido
 - Use a calculadora financeira
@@ -120,8 +132,9 @@ M = C × (1 + i × n)
 Juros Compostos:
 M = C × (1 + i)^n
 J = M - C
-
+``` 
+```
 Equivalência:
 VF = VP × (1 + i)^n
 VP = VF ÷ (1 + i)^n
-``` 
+```

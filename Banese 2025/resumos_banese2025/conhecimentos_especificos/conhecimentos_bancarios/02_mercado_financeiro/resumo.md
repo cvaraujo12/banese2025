@@ -1,11 +1,23 @@
-# Mercado Financeiro - Padrão Cesgranrio
+---
+title: "Mercado Financeiro"
+author: "BANESE 2025 - Conhecimentos Bancários"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
 
-## Conceitos Fundamentais no Contexto Bancário
+# 📈 Mercado Financeiro - Padrão Cesgranrio
+
+---
+
+## 💡 Conceitos Fundamentais no Contexto Bancário
 
 ### O que é Mercado Financeiro?
-- **Definição Prática**: Sistema onde bancos e instituições financeiras realizam operações diárias
-- **Aplicação Bancária**: Ambiente onde bancos captam e aplicam recursos
-- **Relevância**: Essencial para operações bancárias cotidianas
+> **Definição Prática**: Sistema onde bancos e instituições financeiras realizam operações diárias
+> **Aplicação Bancária**: Ambiente onde bancos captam e aplicam recursos
+> **Relevância**: Essencial para operações bancárias cotidianas
 
 ### Importância no Setor Bancário
 1. **Para as Instituições Financeiras**
@@ -18,18 +30,18 @@
    - Soluções de crédito personalizadas
    - Serviços financeiros integrados
 
-## Segmentos do Mercado
+## 🔄 Segmentos do Mercado
 
-### Mercado Monetário
-1. **Características**
-   - Operações de curto prazo
-   - Alta liquidez
-   - Baixo risco
+### 💰 Mercado Monetário
+- **Características**:
+  - Operações de curto prazo
+  - Alta liquidez
+  - Baixo risco
 
-2. **Instrumentos**
-   - Títulos públicos
-   - CDI
-   - Operações compromissadas
+- **Instrumentos**:
+  - Títulos públicos
+  - CDI
+  - Operações compromissadas
 
 ### Mercado de Crédito
 1. **Características**
@@ -64,18 +76,18 @@
    - Remessas internacionais
    - Hedge cambial
 
-## Participantes do Mercado
+## 👥 Participantes do Mercado
 
-### Instituições Financeiras
-1. **Bancos**
-   - Comerciais
-   - Múltiplos
-   - Investimento
+### 🏦 Instituições Financeiras
+- **Bancos**:
+  - Comerciais
+  - Múltiplos
+  - Investimento
 
-2. **Outras Instituições**
-   - Corretoras
-   - Distribuidoras
-   - Cooperativas
+- **Outras Instituições**
+  - Corretoras
+  - Distribuidoras
+  - Cooperativas
 
 ### Investidores
 1. **Pessoas Físicas**
@@ -112,18 +124,18 @@
    - Desconto de duplicatas
    - Financiamento de projetos
 
-## Regulamentação
+## 📋 Regulamentação
 
-### Principais Normas
-1. **Lei 4.595/64**
-   - Lei do Sistema Financeiro
-   - Estrutura do SFN
-   - Atribuições do BACEN
+### 📜 Principais Normas
+> **Lei 4.595/64**
+> - Lei do Sistema Financeiro
+> - Estrutura do SFN
+> - Atribuições do BACEN
 
-2. **Lei 6.385/76**
-   - Lei do Mercado de Capitais
-   - Criação da CVM
-   - Valores mobiliários
+> **Lei 6.385/76**
+> - Lei do Mercado de Capitais
+> - Criação da CVM
+> - Valores mobiliários
 
 ### Órgãos Reguladores
 - **BACEN**: Sistema financeiro
@@ -155,15 +167,14 @@
    b) ...
    c) ...
 
-## Dicas para Prova Cesgranrio ⭐
+## 🎯 Dicas para Prova Cesgranrio
 1. Foque em aspectos práticos das operações
 2. Memorize os principais produtos bancários
 3. Estude casos de atendimento ao cliente
 4. Conheça a regulamentação básica
 5. Pratique questões anteriores
 
-## Pontos para Memorizar 📌
-
+## 📌 Pontos para Memorizar
 1. Quatro segmentos principais
 2. Funções de cada mercado
 3. Principais participantes

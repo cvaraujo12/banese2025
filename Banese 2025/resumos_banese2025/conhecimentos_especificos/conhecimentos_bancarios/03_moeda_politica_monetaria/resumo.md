@@ -1,23 +1,36 @@
-# Moeda e Política Monetária
+---
+title: "Moeda e Política Monetária"
+author: "BANESE 2025 - Conhecimentos Bancários"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
 
-## Conceitos Fundamentais para Concurso
+# 💰 Moeda e Política Monetária
+---
 
-### Moeda no Sistema Financeiro
+## 📌 Conceitos Fundamentais para Concurso
+
+### Moeda no Sistema Financeiro 🏦
 - **Definição técnica**: Meio de troca universalmente aceito utilizado no Sistema Financeiro Nacional
 - **Funções essenciais no ambiente bancário**:
   - Meio de troca: Utilizada em operações bancárias diárias
   - Reserva de valor: Aplicações financeiras e investimentos
   - Unidade de conta: Mensuração de produtos bancários
 
-### Política Monetária na Prática Bancária
-- **Conceito aplicado**: Conjunto de medidas do Banco Central que impactam diretamente:
-  - Operações de crédito bancário
-  - Taxas de juros das operações
-  - Liquidez do sistema financeiro
+### Política Monetária na Prática Bancária 📊
+> A política monetária é o conjunto de medidas adotadas pelo Banco Central que impactam diretamente o sistema financeiro.
 
-## Instrumentos Principais (Foco Cesgranrio)
+**Principais impactos:**
+- Operações de crédito bancário
+- Taxas de juros das operações
+- Liquidez do sistema financeiro
 
-### 1. Taxa SELIC no Dia a Dia Bancário
+## 🎯 Instrumentos Principais (Foco Cesgranrio)
+
+### 1. Taxa SELIC no Dia a Dia Bancário 📈
 - **Aplicação prática**: 
   - Define o custo do dinheiro para os bancos
   - Base para taxas de empréstimos e financiamentos

@@ -1,4 +1,15 @@
+---
+title: "Ortografia"
+author: "BANESE 2025 - Língua Portuguesa"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
 # Ortografia ✍️
+---
 
 ## 🎯 Guia Rápido
 - Memorize as regras básicas
@@ -40,20 +51,18 @@
 - **Palavras com ja, jo, ju**: janela, jogo
 
 ## 4. Uso de SS, Ç, C, SC 📖
+
 ### Com SS:
-- **Entre vogais**: passar, assunto
-- **Após consoante**: pensar, conversar
-- **Superlativos**: -íssimo
+```text
+- Entre vogais: passar, assunto
+- Após consoante: pensar, conversar
+- Superlativos: -íssimo
+```
 
 ### Com Ç:
-- **Início de sílaba**: cabeça, açúcar
-- **Sufixos -ção**: atenção, produção
-- **Após consoante**: calça, berço
-
-### Com SC:
-- **Palavras eruditas**: ascensão, piscina
-- **Verbos conhecer**: nascer, crescer
-- **Palavras científicas**: fascículo
+> - Início de sílaba: cabeça, açúcar
+> - Sufixos -ção: atenção, produção
+> - Após consoante: calça, berço
 
 ## 5. H Inicial 📋
 ### Usa-se:
@@ -83,13 +92,14 @@
 - **Sede** (substantivo/verbo)
 
 ## 8. Dicas Práticas 💡
+
 ### Para Memorizar:
 1. Crie associações
 2. Use regras mnemônicas
 3. Faça listas de palavras
 4. Pratique diariamente
 
-### Erros Comuns:
+### ⚠️ Erros Comuns:
 - Mal/Mau
 - Há/A
 - Mas/Mais
@@ -107,4 +117,4 @@
 - Exceções às regras
 - Reforma ortográfica
 - Palavras homófonas
-- Uso do hífen 
+- Uso do hífen

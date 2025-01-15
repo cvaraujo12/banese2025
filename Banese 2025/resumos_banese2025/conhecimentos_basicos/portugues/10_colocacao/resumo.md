@@ -1,4 +1,16 @@
-# Colocação Pronominal 🔄
+---
+title: "Colocação Pronominal"
+author: "BANESE 2025 - Língua Portuguesa"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
+# 📚 Colocação Pronominal
+
+---
 
 ## 🎯 Guia Rápido
 - Entenda as três posições
@@ -7,12 +19,13 @@
 - Observe padrões
 
 ## 1. Posições do Pronome 📍
+
 ### Próclise (antes do verbo):
-- **Palavras Atrativas**:
-  - Negação: não, nunca, jamais
-  - Advérbios: já, sempre, ainda
-  - Pronomes: que, quem, este
-  - Conjunções: que, se, quando
+> **Palavras Atrativas**:
+- Negação: não, nunca, jamais
+- Advérbios: já, sempre, ainda
+- Pronomes: que, quem, este
+- Conjunções: que, se, quando
 
 ### Mesóclise (meio do verbo):
 - **Futuro do Presente**:
@@ -88,21 +101,14 @@
    - Mais flexível
    - Preferir forma mais natural
 
-## 📌 Dicas de Estudo
+## 📌 Pontos para Memorizar
 1. Liste palavras atrativas
 2. Pratique cada posição
 3. Faça exercícios diários
 4. Leia em voz alta
 5. Corrija textos errados
 
-## 🎯 Pontos de Atenção
-- Início de frases
-- Palavras atrativas
-- Verbos no futuro
-- Locuções verbais
-- Imperativo
-
-## ⚠️ Erros Comuns
+## ⚠️ Observações Importantes
 1. Pronome no início
 2. Ignorar atrativos
 3. Mesóclise errada

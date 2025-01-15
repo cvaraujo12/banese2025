@@ -1,28 +1,35 @@
-# Conhecimentos Bancários - BANESE 2025 🏦
+---
+title: "Conhecimentos Bancários"
+author: "BANESE 2025 - Conhecimentos Específicos"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
 
-## 🎯 Guia Rápido
-- Entenda a estrutura do SFN
-- Foque nos produtos bancários
-- Conheça as operações básicas
+# Conhecimentos Bancários e Sistema Financeiro Nacional 🏦
+
+---
+
+## 🎯 Pontos Principais para a Prova
+- Estrutura completa do SFN
+- Produtos e serviços bancários
+- Operações financeiras essenciais
 
 ## 1. Sistema Financeiro Nacional 📊
-### Estrutura:
-- **Órgãos Normativos**:
-  - CMN
-  - CNSP
-  - CNPC
+### Estrutura Organizacional
 
-- **Supervisores**:
-  - Banco Central
-  - CVM
-  - SUSEP
-  - PREVIC
+> **Órgãos Normativos**
+- CMN (Conselho Monetário Nacional)
+- CNSP (Conselho Nacional de Seguros Privados)
+- CNPC (Conselho Nacional de Previdência Complementar)
 
-- **Operadores**:
-  - Bancos
-  - Cooperativas
-  - Corretoras
-  - Seguradoras
+> **Entidades Supervisoras**
+- Banco Central do Brasil
+- CVM (Comissão de Valores Mobiliários)
+- SUSEP (Superintendência de Seguros Privados)
+- PREVIC (Superintendência Nacional de Previdência Complementar)
 
 ## 2. Mercado Financeiro 💹
 ### Segmentos:
@@ -183,9 +190,11 @@
 - Segurança
 - Execução
 
-## 📌 Dicas de Estudo
-1. Acompanhe notícias econômicas
-2. Entenda fluxos operacionais
-3. Pratique cálculos financeiros
-4. Conheça produtos do mercado
-5. Estude casos práticos
+## 📌 Guia de Estudos e Memorização
+1. Mantenha-se atualizado com notícias do setor financeiro
+2. Compreenda os fluxos operacionais bancários
+3. Exercite cálculos financeiros frequentemente
+4. Familiarize-se com produtos do mercado
+5. Analise casos práticos do dia a dia
+
+⚠️ **Observação Importante**: Foque especialmente na estrutura do SFN e nas operações bancárias mais comuns, pois são temas frequentes em concursos.

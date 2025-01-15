@@ -1,4 +1,16 @@
-# Atualidades do Mercado Financeiro - BANESE 2025 📱
+---
+title: "Atualidades do Mercado Financeiro"
+author: "BANESE 2025 - Conhecimentos Específicos"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
+# 🏦 Atualidades do Mercado Financeiro - BANESE 2025
+
+---
 
 ## 🎯 Guia Rápido
 - Acompanhe as novidades
@@ -46,15 +58,19 @@
 
 ## 4. Fintechs e Startups 💡
 ### Segmentos:
+> **Principais áreas de atuação:**
 - Pagamentos
 - Crédito
 - Investimentos
 - Seguros
 
 ### Big Techs:
+```text
+Impactos no Setor Financeiro:
 - Entrada no mercado
 - Impacto no setor
 - Regulamentação
+```
 
 ## 5. Shadow Banking 🏦
 ### Sistema:
@@ -119,11 +135,13 @@
 
 ## 11. PIX 📲
 ### Características:
+> **Sistema de Pagamentos Instantâneos:**
 - Instantâneo
 - 24/7
 - Baixo custo
 
 ### Funcionalidades:
+📌 **Principais recursos:**
 - Transferências
 - Pagamentos
 - QR Code
@@ -152,3 +170,12 @@
 - FEBRABAN
 - Sites especializados
 - Relatórios setoriais
+
+## 📚 Pontos para Memorizar
+1. Transformação digital no setor bancário
+2. Impacto das fintechs
+3. Novos meios de pagamento
+4. Regulamentação do mercado
+
+## ⚠️ Observações Importantes
+> Mantenha-se atualizado sobre as mudanças regulatórias e tecnológicas do setor financeiro.

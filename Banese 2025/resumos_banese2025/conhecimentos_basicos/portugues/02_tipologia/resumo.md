@@ -1,4 +1,15 @@
-# Tipologia Textual 📝
+---
+title: "Tipologia Textual"
+author: "BANESE 2025 - Língua Portuguesa"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
+# Tipologia Textual 📚
+---
 
 ## 🎯 Guia Rápido
 - Identifique os tipos de texto
@@ -56,7 +67,7 @@
   - Persuade
   - Defende
 
-## 4. Injunção 📋
+## 4. Injunção ✍️
 ### Características:
 - **Instrui**
 - **Orienta**
@@ -64,10 +75,12 @@
 - **Sequência lógica**
 
 ### Exemplos:
+```text
 - Receitas
 - Manuais
 - Tutoriais
 - Regulamentos
+```
 
 ## 5. Exposição 📊
 ### Características:
@@ -116,27 +129,29 @@
 
 ## 8. Coesão Textual 🔄
 ### Mecanismos:
-- Referência
-- Substituição
-- Elipse
-- Conjunção
+> - Referência
+> - Substituição
+> - Elipse
+> - Conjunção
 
 ### Conectivos:
+```text
 - Adição
 - Oposição
 - Conclusão
 - Explicação
+```
 
-## 📌 Dicas de Estudo
+## 📌 Pontos para Memorizar
 1. Leia diversos gêneros
 2. Identifique características
 3. Pratique produção
 4. Analise textos modelo
 5. Faça exercícios
 
-## 🎯 Pontos de Atenção
+## ⚠️ Pontos de Atenção
 - Estrutura do texto
 - Objetivo comunicativo
 - Público-alvo
 - Linguagem adequada
-- Coerência textual 
+- Coerência textual

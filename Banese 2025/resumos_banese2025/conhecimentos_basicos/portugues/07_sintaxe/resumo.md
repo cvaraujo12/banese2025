@@ -1,4 +1,16 @@
-# Sintaxe 🔄
+---
+title: "Sintaxe"
+author: "BANESE 2025 - Língua Portuguesa"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
+# Sintaxe 📚
+
+---
 
 ## 🎯 Guia Rápido
 - Entenda a estrutura da frase
@@ -36,7 +48,7 @@
 - **Aposto**
 - **Vocativo**
 
-## 2. Período Simples 📊
+## 2. Período Simples ✍️
 ### Estrutura:
 - Uma oração
 - Um verbo ou locução
@@ -138,16 +150,16 @@
 - Marque conectivos
 - Identifique relações
 
-## 📌 Dicas de Estudo
+## 📌 Pontos para Memorizar
 1. Faça diagramas
 2. Use cores diferentes
 3. Pratique análise
 4. Crie exemplos
 5. Revise regularmente
 
-## 🎯 Pontos de Atenção
-- Relações entre termos
-- Conectivos importantes
-- Funções sintáticas
-- Casos especiais
-- Exceções às regras
+## ⚠️ Pontos de Atenção
+> - Relações entre termos
+> - Conectivos importantes
+> - Funções sintáticas
+> - Casos especiais
+> - Exceções às regras

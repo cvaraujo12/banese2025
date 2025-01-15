@@ -1,3 +1,13 @@
+---
+title: "Microsoft Office 365"
+author: "BANESE 2025 - Conhecimentos de Informática"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
 # Microsoft Office 365 (Word, Excel e PowerPoint)
 
 ## Aplicações Bancárias do Office
@@ -22,6 +32,8 @@
   - Estatísticas: MÉDIA, DESVPAD
   - Pesquisa: PROCV para bases de clientes
 
+---
+
 ## Microsoft Word
 
 ### Principais Recursos
@@ -40,6 +52,8 @@
 - Controle de alterações
 - Comentários
 - Proteção de documento
+
+---
 
 ## Microsoft Excel
 
@@ -60,6 +74,8 @@
 - Gráficos dinâmicos
 - Filtros avançados
 - Macros básicas
+
+---
 
 ## Microsoft PowerPoint
 
@@ -84,6 +100,8 @@
   - Temporizador
   - Narração
 
+---
+
 ## Recursos Comuns Office 365
 
 ### Cloud e Colaboração
@@ -99,6 +117,8 @@
 - Entre aplicativos Office
 - Com Teams e SharePoint
 - Com dispositivos móveis
+
+---
 
 ## Dicas Práticas 🎯
 
@@ -117,6 +137,8 @@
 2. Use a regra dos 3
 3. Pratique o modo apresentador
 
+---
+
 ## Dicas para Provas Cesgranrio 🎯
 
 ### Pontos Mais Cobrados
@@ -130,10 +152,14 @@
 - **Cenário 2**: Elaboração de apresentação de produtos bancários
 - **Cenário 3**: Gestão de documentos sigilosos no Word
 
+---
+
 ## Armadilhas Comuns em Provas ⚠️
 1. Confusão entre referências absolutas e relativas no Excel
 2. Diferenças entre proteção de arquivo e proteção de conteúdo
 3. Permissões de compartilhamento no OneDrive
+
+---
 
 ## Atalhos Essenciais ⌨️
 
@@ -159,6 +185,8 @@
 - **Shift + F5**: Iniciar do slide atual
 - **B**: Tela preta durante apresentação
 
+---
+
 ## Pontos para Memorizar 📌
 
 1. Office 365 é baseado em nuvem
@@ -166,6 +194,8 @@
 3. Integração entre aplicativos
 4. Atualizações automáticas
 5. Disponível em múltiplos dispositivos
+
+---
 
 ## Estatísticas de Cobrança 📊
 - Excel: 45% das questões

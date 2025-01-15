@@ -1,4 +1,15 @@
+---
+title: "Noções de Informática"
+author: "BANESE 2025 - Conhecimentos Básicos"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
 # Noções de Informática - BANESE 2025 💻
+---
 
 ## 🎯 Guia Rápido
 - Pratique no computador
@@ -6,6 +17,8 @@
 - Faça exercícios práticos
 
 ## 1. Windows 11 🪟
+---
+
 ### Principais Recursos:
 - **Interface**:
   - Menu Iniciar
@@ -18,6 +31,8 @@
 - Personalização
 
 ## 2. Microsoft Office O365 📊
+---
+
 ### Word:
 - Formatação de texto
 - Estilos
@@ -37,6 +52,8 @@
 - Apresentações
 
 ## 3. Segurança da Informação 🔒
+---
+
 ### Fundamentos:
 - Confidencialidade
 - Integridade
@@ -49,6 +66,8 @@
 - Controles
 
 ## 4. Proteção de Estações 🛡️
+---
+
 ### Controles:
 - **Dispositivos USB**:
   - Bloqueio
@@ -60,6 +79,8 @@
 - Firewall pessoal
 
 ## 5. Gerenciamento de Arquivos 📁
+---
+
 ### Organização:
 - Pastas
 - Subpastas
@@ -72,6 +93,8 @@
 - Excluir
 
 ## 6. Redes de Computadores 🌐
+---
+
 ### Conceitos:
 - LAN
 - WAN
@@ -84,6 +107,8 @@
 - Mensageiros
 
 ## 7. Navegadores Web 🔍
+---
+
 ### Microsoft Edge 91:
 - Recursos
 - Configurações
@@ -95,6 +120,8 @@
 - Segurança
 
 ## 8. Comunicação Online 📧
+---
+
 ### Ferramentas:
 - E-mail
 - Grupos
@@ -102,6 +129,8 @@
 - Wikis
 
 ## 9. Redes Sociais 📱
+---
+
 ### Plataformas:
 - Twitter
 - Facebook
@@ -112,12 +141,16 @@
 - Telegram
 
 ## 10. Suporte à Decisão 📊
+---
+
 ### Conceitos:
 - Business Intelligence
 - Análise de dados
 - Dashboards
 
 ## 11. Análise de Dados 📈
+---
+
 ### Fundamentos:
 - Coleta
 - Processamento
@@ -125,6 +158,8 @@
 - Interpretação
 
 ## 12. Educação a Distância 🎓
+---
+
 ### Elementos:
 - Plataformas
 - Materiais
@@ -132,6 +167,8 @@
 - Avaliação
 
 ## 13. Multimídia 🎥
+---
+
 ### Tecnologias:
 - Áudio
 - Vídeo
@@ -139,6 +176,8 @@
 - Streaming
 
 ## 14. Trabalho Remoto 🏠
+---
+
 ### Ferramentas:
 - **Microsoft Teams**:
   - Reuniões
@@ -154,8 +193,10 @@
   - Colaboração
 
 ## 📌 Dicas de Estudo
+---
+
 1. Pratique diariamente
 2. Use tutoriais online
 3. Crie projetos práticos
 4. Explore as ferramentas
-5. Mantenha-se atualizado 
+5. Mantenha-se atualizado

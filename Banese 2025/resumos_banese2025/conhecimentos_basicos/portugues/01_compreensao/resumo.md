@@ -1,3 +1,13 @@
+---
+title: "Compreensão de Textos"
+author: "BANESE 2025 - Língua Portuguesa"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
 # Compreensão de Textos 📖
 
 ## 🎯 Guia Rápido
@@ -115,4 +125,4 @@
 - Atenção aos detalhes
 - Releitura quando necessário
 - Marcação de palavras-chave
-- Organização das ideias 
+- Organização das ideias

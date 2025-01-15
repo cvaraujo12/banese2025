@@ -1,30 +1,36 @@
-# Sistema Financeiro Nacional (SFN)
+---
+title: "Sistema Financeiro Nacional"
+author: "BANESE 2025 - Conhecimentos Bancários"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
 
-## Conceitos Fundamentais e Aplicações Bancárias
+# 🏦 Sistema Financeiro Nacional (SFN)
+
+---
+
+## 📋 Conceitos Fundamentais e Aplicações Bancárias
 
 ### Definição e Importância no Setor Bancário
-1. **Sistema Financeiro Nacional**
-   - Conjunto de instituições que regulam e operacionalizam as relações financeiras no Brasil
-   - Papel fundamental nas operações bancárias diárias
-   - Impacto direto nas atividades dos bancos comerciais
+- **Sistema Financeiro Nacional**:
+  > Conjunto de instituições que regulam e operacionalizam as relações financeiras no Brasil, tendo papel fundamental nas operações bancárias diárias e impacto direto nas atividades dos bancos comerciais.
 
-2. **Aplicação Prática no Dia a Dia Bancário**
-   - Operações de crédito e financiamento
-   - Atendimento ao cliente e produtos financeiros
-   - Compliance e regulamentações
+### 💼 Aplicação Prática no Dia a Dia Bancário
+- Operações de crédito e financiamento
+- Atendimento ao cliente e produtos financeiros
+- Compliance e regulamentações
 
-## Estrutura e Funcionamento
+## 🏛️ Estrutura e Funcionamento
 
-### Órgãos Normativos (Foco Cesgranrio)
+### 📜 Órgãos Normativos
 1. **CMN - Conselho Monetário Nacional**
-   - Principal órgão do sistema financeiro
-   - Exemplo prático: definição de limites de crédito
-   - Impacto nas operações bancárias diárias
+   > Principal órgão do sistema financeiro, responsável pela definição de políticas e diretrizes monetárias
 
 2. **BACEN - Banco Central do Brasil**
-   - Executor das políticas monetárias
-   - Casos práticos de fiscalização bancária
-   - Situações comuns de supervisão
+   > Executor das políticas monetárias e supervisor do sistema bancário
 
 3. **CNSP - Conselho Nacional de Seguros e Previdência**
    - Seguros privados
@@ -186,31 +192,18 @@
    - Informações
    - Monitoramento
 
-## Dicas para Questões Cesgranrio 📝
+## 🎯 Dicas para Prova
+- Foco nos órgãos reguladores (30% das questões)
+- Atenção às atribuições específicas de cada instituição
+- Memorizar hierarquia do SFN
 
-1. **Pontos Mais Cobrados**
-   - Estrutura do SFN (30% das questões)
-   - Função dos órgãos reguladores (25%)
-   - Operações bancárias (20%)
+## 📝 Exemplos Práticos e Casos de Uso
+1. **Situações Bancárias Comuns**
+   - Operações interbancárias
+   - Fiscalização do BACEN
+   - Regulamentações práticas
 
-2. **Armadilhas Comuns**
-   - Confusão entre atribuições dos órgãos
-   - Erro na hierarquia do sistema
-   - Interpretação incorreta das regulamentações
-
-## Exercícios Modelo Cesgranrio 📚
-
-1. (Cesgranrio - Banco X) Em relação ao Sistema Financeiro Nacional, analise:
-   [Exemplo de questão contextualizada]
-
-2. (Cesgranrio - Banco Y) Sobre as atribuições do BACEN:
-   [Exemplo de questão prática]
-
-## Resolução de Problemas 🔍
-
-### Passo a Passo
-1. Identifique área
-2. Verifique normas
-3. Consulte órgãos
-4. Analise impactos
-5. Implemente soluções
+## ⚠️ Pontos de Atenção
+- Diferenças entre instituições bancárias e não bancárias
+- Papel específico de cada órgão regulador
+- Hierarquia do sistema financeiro

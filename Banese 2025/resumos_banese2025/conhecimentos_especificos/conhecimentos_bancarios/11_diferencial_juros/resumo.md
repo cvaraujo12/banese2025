@@ -1,15 +1,26 @@
-# Diferencial de Juros no Sistema Bancário
+---
+title: "Diferencial de Juros no Sistema Bancário"
+author: "BANESE 2025 - Conhecimentos Bancários"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
 
-## Conceitos Fundamentais para Concurso
+# 💰 Diferencial de Juros no Sistema Bancário
+---
 
-- **Diferencial de juros (Conceito-chave Cesgranrio)**:
-  - Definição: Diferença entre taxas de captação e empréstimo
-  - Relevância: Principal indicador de rentabilidade bancária
-  - Foco em concurso: Frequentemente cobrado em questões práticas
+## 📊 Conceitos Fundamentais para Concurso
 
-## Aplicação Prática no Dia a Dia Bancário
+> **Diferencial de juros (Conceito-chave Cesgranrio)**:
+> - Definição: Diferença entre taxas de captação e empréstimo
+> - Relevância: Principal indicador de rentabilidade bancária
+> - Foco em concurso: Frequentemente cobrado em questões práticas
 
-### 1. Componentes do Spread Bancário
+## 💱 Aplicação Prática no Dia a Dia Bancário
+
+### Componentes do Spread Bancário
 - **Taxa de captação**:
   - CDB: Banco paga 8% a.a.
   - Poupança: Banco paga 6% a.a.
@@ -18,14 +29,16 @@
   - Empréstimo pessoal: 25% a.a.
   - Financiamento de veículos: 18% a.a.
 
-### 2. Exemplos Contextualizados (Estilo Cesgranrio)
+### 📝 Exemplos Práticos
 
 **Caso Prático 1:**
+```
 Um banco capta recursos via CDB pagando 8% a.a. e concede:
 - Empréstimo pessoal: 28% a.a. → Spread = 20%
 - Financiamento imobiliário: 12% a.a. → Spread = 4%
+```
 
-## Pontos Críticos para a Prova
+## 📌 Pontos Críticos para a Prova
 
 1. Fatores que Impactam o Spread:
    - Risco de inadimplência
@@ -33,11 +46,11 @@ Um banco capta recursos via CDB pagando 8% a.a. e concede:
    - Exigências regulatórias
    - Conjuntura econômica
 
-2. Armadilhas Comuns:
+2. ⚠️ Armadilhas Comuns:
    - Não confundir spread com taxa de juros
    - Atenção aos percentuais em questões práticas
 
-## Exercícios Modelo Cesgranrio
+## 🎯 Exercícios Modelo Cesgranrio
 
 1. (Cesgranrio-Style) Um banco capta recursos a 7% a.a. e empresta a 22% a.a. Considerando apenas estas informações, o spread bancário é de:
    a) 15% a.a.
@@ -48,7 +61,7 @@ Um banco capta recursos via CDB pagando 8% a.a. e concede:
 
 Resposta: a) 15% a.a. (22% - 7% = 15%)
 
-## Dicas de Resolução ⭐
+## 💡 Dicas de Resolução
 
 - Sempre identifique primeiro as taxas de captação e empréstimo
 - Verifique se os percentuais estão na mesma base temporal

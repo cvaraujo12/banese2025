@@ -1,4 +1,15 @@
-# Regência Verbal e Nominal 🔗
+---
+title: "Regência Verbal e Nominal"
+author: "BANESE 2025 - Língua Portuguesa"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
+# Regência Verbal e Nominal 📚
+---
 
 ## 🎯 Guia Rápido
 - Entenda as relações
@@ -6,7 +17,7 @@
 - Pratique com exemplos
 - Observe padrões
 
-## 1. Regência Verbal 📝
+## 1. Regência Verbal ✍️
 ### Conceito:
 - **Relação entre verbo e complemento**
 - **Uso correto de preposições**
@@ -62,7 +73,7 @@
 2. **Avisar**:
    - Algo a alguém
    - Alguém de algo
-   
+
 3. **Preferir**:
    - A (comparação)
    - "Prefiro estudar a dormir"
@@ -74,7 +85,7 @@
 2. **Respeito**:
    - A/Por: Respeito aos/pelos mais velhos
 
-## 4. Dicas Práticas ⚡
+## 4. Dicas Práticas ⭐
 1. **Verbos de Movimento**:
    - A, Para: Ir a, Vir para
    
@@ -84,29 +95,22 @@
 3. **Verbos de Sentimento**:
    - De, Com, Por: Gostar de, Simpatizar com
 
-## 📌 Dicas de Estudo
+## 📌 Pontos para Memorizar
 1. Crie listas de verbos
 2. Memorize preposições
 3. Pratique com frases
 4. Leia em voz alta
 5. Faça exercícios diários
 
-## 🎯 Pontos de Atenção
-- Preposições corretas
-- Dupla regência
-- Casos especiais
-- Verbos similares
-- Nomes importantes
-
-## ⚠️ Erros Comuns
+## ⚠️ Observações Importantes
 1. Assistir o filme
 2. Visar o sucesso
 3. Obedecer o chefe
 4. Preferir algo do que
 5. Namorar com alguém
 
-## 🎯 Exercícios
-Complete com a preposição correta:
+## ✏️ Exercícios Modelo
+> Complete com a preposição correta:
 1. Assistir ___ filme (ao)
 2. Aspirar ___ cargo (ao)
 3. Obedecer ___ lei (à)

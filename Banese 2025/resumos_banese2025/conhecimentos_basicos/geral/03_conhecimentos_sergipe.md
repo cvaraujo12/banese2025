@@ -1,4 +1,16 @@
+---
+title: "Conhecimentos sobre Sergipe"
+author: "BANESE 2025 - Conhecimentos Básicos"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
 # Conhecimentos sobre Sergipe - BANESE 2025 🗺️
+
+---
 
 ## 🎯 Guia Rápido
 - Use os mapas mentais sugeridos
@@ -132,8 +144,10 @@
 - Gastronomia
 
 ## 📌 Dicas de Estudo
+
+> **Pontos Importantes para Memorizar:**
 1. Use mapas para visualizar
 2. Associe fatos históricos
 3. Crie linhas do tempo
 4. Relacione geografia e economia
-5. Faça visitas virtuais 
+5. Faça visitas virtuais

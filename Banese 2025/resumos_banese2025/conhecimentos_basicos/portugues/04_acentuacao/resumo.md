@@ -1,4 +1,16 @@
-# Acentuação Gráfica ´
+---
+title: "Acentuação Gráfica"
+author: "BANESE 2025 - Língua Portuguesa"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
+# 📝 Acentuação Gráfica
+
+---
 
 ## 🎯 Guia Rápido
 - Identifique a sílaba tônica
@@ -20,8 +32,10 @@
 
 ## 2. Regras Gerais 📚
 ### Proparoxítonas:
-- **TODAS são acentuadas**
-- Exemplos: médico, última, lâmpada
+> **TODAS são acentuadas**
+```
+Exemplos: médico, última, lâmpada
+```
 
 ### Paroxítonas:
 Acentuam-se quando terminam em:
@@ -106,9 +120,21 @@ Acentuam-se quando terminam em:
 4. Faça revisões
 5. Memorize exemplos
 
+## 📌 Pontos para Memorizar
+1. Todas as proparoxítonas são acentuadas
+2. Paroxítonas seguem regras específicas
+3. Oxítonas têm casos bem definidos
+4. Atenção aos monossílabos tônicos
+5. Memorize os casos especiais
+
+⚠️ **Observações Importantes:**
+- Fique atento às mudanças da reforma ortográfica
+- Pratique especialmente os casos de acento diferencial
+- Revise regularmente as exceções às regras gerais
+
 ## 🎯 Pontos de Atenção
 - Reforma ortográfica
 - Exceções importantes
 - Palavras frequentes
 - Acento diferencial
-- Casos especiais 
+- Casos especiais

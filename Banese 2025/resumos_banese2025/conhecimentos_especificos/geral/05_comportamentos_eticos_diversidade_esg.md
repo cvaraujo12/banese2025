@@ -1,4 +1,16 @@
-# Comportamentos Éticos, Diversidade e ESG - BANESE 2025 🌱
+---
+title: "Comportamentos Éticos, Diversidade e ESG"
+author: "BANESE 2025 - Conhecimentos Específicos"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
+# Comportamentos Éticos, Diversidade e ESG 🌱
+
+---
 
 ## 🎯 Guia Rápido
 - Entenda os conceitos éticos
@@ -7,15 +19,19 @@
 - Valorize a diversidade
 
 ## 1. Lavagem de Dinheiro 🚫
+
 ### Conceito:
+> A lavagem de dinheiro consiste em um conjunto de operações que visam:
 - Ocultação de origem
 - Integração no sistema
 - Etapas do processo
 
 ### Legislação:
+```text
 - Lei 9.613/98
 - Lei 12.683/2012
 - Lei 14.478/2022
+```
 
 ### Prevenção:
 - Circular 3.978/2020

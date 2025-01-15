@@ -1,3 +1,13 @@
+---
+title: "Matemática"
+author: "BANESE 2025 - Conhecimentos Básicos"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
 # Matemática - BANESE 2025 🔢
 
 ## 🎯 Guia Rápido
@@ -129,4 +139,4 @@
 2. Use cores diferentes para fórmulas
 3. Faça desenhos e diagramas
 4. Pratique com calculadora
-5. Revise conceitos básicos primeiro 
+5. Revise conceitos básicos primeiro

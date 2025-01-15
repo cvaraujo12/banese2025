@@ -1,3 +1,13 @@
+---
+title: "Redes Sociais no Ambiente Bancário"
+author: "BANESE 2025 - Conhecimentos de Informática"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
 # Redes Sociais no Ambiente Bancário
 
 ## Conceitos Fundamentais e Aplicações Bancárias
@@ -6,6 +16,8 @@
 - **Conceito Base**: Plataformas digitais de conexão utilizadas para relacionamento com clientes e comunicação corporativa
 - **Relevância**: Canais estratégicos para marketing bancário e SAC digital
 - **Aplicação**: Divulgação de produtos financeiros e atendimento ao cliente
+
+---
 
 ### Principais Plataformas no Contexto Bancário
 
@@ -27,6 +39,8 @@
    - Transações básicas
    - Segurança: Protocolos e validações
 
+---
+
 ## Segurança da Informação no Setor Bancário
 
 ### Protocolos Essenciais
@@ -41,6 +55,8 @@
    - Validação de informações
    - Canais oficiais
    - Alertas aos clientes
+
+---
 
 ## Exercícios Modelo Cesgranrio
 

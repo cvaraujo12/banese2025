@@ -1,4 +1,16 @@
+---
+title: "Sinonímia e Relações de Significado"
+author: "BANESE 2025 - Língua Portuguesa"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
 # Sinonímia e Relações de Significado 🔄
+
+---
 
 ## 🎯 Guia Rápido
 - Entenda os tipos
@@ -101,17 +113,19 @@
 4. Analise contextos
 5. Faça exercícios variados
 
-## 🎯 Pontos de Atenção
-- Contexto é fundamental
-- Nível de formalidade
-- Adequação ao texto
-- Clareza na comunicação
-- Precisão vocabular
+## �� Pontos de Atenção
+> - Contexto é fundamental
+> - Nível de formalidade
+> - Adequação ao texto
+> - Clareza na comunicação
+> - Precisão vocabular
 
-## 🎯 Exercícios
+## ✏️ Exercícios
 Encontre sinônimos para:
+```text
 1. Feliz = contente, alegre
 2. Casa = lar, residência
 3. Começar = iniciar, principiar
 4. Falar = dizer, pronunciar
 5. Olhar = ver, observar
+```

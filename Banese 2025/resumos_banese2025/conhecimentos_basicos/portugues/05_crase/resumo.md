@@ -1,4 +1,15 @@
-# Crase `
+---
+title: "Crase"
+author: "BANESE 2025 - Língua Portuguesa"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
+# 📚 Crase
+---
 
 ## 🎯 Guia Rápido
 - Identifique a presença de "a" + "a"
@@ -19,10 +30,12 @@
 - Em locuções
 
 ## 2. Casos Obrigatórios ✅
-### Antes de:
-- **Palavras femininas determinadas**:
-  - Vou à escola
-  - Refiro-me à professora
+> ### Antes de:
+> - **Palavras femininas determinadas**:
+>   ```
+>   Vou à escola
+>   Refiro-me à professora
+>   ```
 
 ### Locuções:
 - **À moda de**
@@ -110,16 +123,16 @@
 - Refiro-me **a** estudar (verbo)
 - Chegou **à** noite (locução)
 
-## 📌 Dicas de Estudo
+## 📌 Pontos para Memorizar
 1. Memorize casos básicos
 2. Pratique substituições
 3. Faça exercícios diários
 4. Use macetes
 5. Revise exceções
 
-## 🎯 Pontos de Atenção
-- Palavras femininas
-- Locuções específicas
-- Casos proibidos
-- Substituições
-- Exceções importantes 
+⚠️ **Observações Importantes:**
+- Sempre verifique palavras femininas
+- Atenção às locuções específicas
+- Memorize os casos proibidos
+- Pratique as substituições
+- Fique atento às exceções

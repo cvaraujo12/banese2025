@@ -1,13 +1,27 @@
-# Mercado de Câmbio no Sistema Financeiro Nacional 💱
+---
+title: "Mercado de Câmbio no Sistema Financeiro Nacional"
+author: "BANESE 2025 - Conhecimentos Bancários"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
 
-## Conceitos Fundamentais para Bancários
+# Mercado de Câmbio no Sistema Financeiro Nacional 🏦
+
+---
+
+## Conceitos Fundamentais para Bancários 📋
 
 ### Definições Essenciais
-- **Câmbio**: Operação de troca entre moedas de diferentes países, essencial nas atividades bancárias
-- **Taxa de Câmbio**: Relação de valor entre moedas, fundamental para operações bancárias
-- **Mercado Spot**: Operações com liquidação em D+0 até D+2 (dias úteis)
+> **Câmbio**: Operação de troca entre moedas de diferentes países, essencial nas atividades bancárias
 
-### Estrutura do Mercado Cambial
+> **Taxa de Câmbio**: Relação de valor entre moedas, fundamental para operações bancárias
+
+> **Mercado Spot**: Operações com liquidação em D+0 até D+2 (dias úteis)
+
+### Estrutura do Mercado Cambial 🏛️
 1. Autoridades
    - Banco Central (regulador principal)
    - CMN (diretrizes gerais)
@@ -39,7 +53,7 @@
 
 ## Pontos Críticos para Provas 🎯
 
-### Aspectos Mais Cobrados
+### Aspectos Mais Cobrados 📌
 1. Regulamentação básica
 2. Documentação obrigatória
 3. Limites operacionais

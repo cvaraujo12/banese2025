@@ -1,30 +1,35 @@
-# Taxas de Juros no Sistema Financeiro
+---
+title: "Taxas de Juros no Sistema Financeiro"
+author: "BANESE 2025 - Conhecimentos Bancários"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
 
-## Conceitos Fundamentais para Concursos
+# 💰 Taxas de Juros no Sistema Financeiro
+---
 
-- **Taxa de Juros**:
-  - Definição: Custo do dinheiro no tempo
-  - Importância no sistema bancário: Precificação de produtos financeiros
-  - Aspectos regulatórios: Papel do Banco Central
+## 📊 Conceitos Fundamentais para Concursos
 
-## Principais Taxas no Mercado Financeiro (Foco Cesgranrio)
+> **Taxa de Juros**: Custo do dinheiro no tempo
 
-1. **Taxa Selic**
-   - Definição: Taxa básica referencial da economia brasileira
-   - Determinação: Definida nas reuniões do COPOM
-   - Impacto prático: Influencia toda a cadeia de produtos bancários
-   - Situações práticas:
-     - Precificação de títulos públicos
-     - Base para empréstimos bancários
+- Importância no sistema bancário: Precificação de produtos financeiros
+- Aspectos regulatórios: Papel do Banco Central
 
-2. **Taxa CDI**
-   - Conceito: Taxa do mercado interbancário
-   - Relação com Selic: Geralmente próxima à taxa Selic
-   - Aplicações práticas:
-     - Referência para investimentos
-     - Base para operações interbancárias
+## 📈 Principais Taxas no Mercado Financeiro (Foco Cesgranrio)
 
-## Aplicações Práticas no Ambiente Bancário
+### 1. Taxa Selic 🏦
+- **Definição**: Taxa básica referencial da economia brasileira
+- **Determinação**: Definida nas reuniões do COPOM
+- **Impacto prático**: Influencia toda a cadeia de produtos bancários
+
+### 2. Taxa CDI 💱
+- **Conceito**: Taxa do mercado interbancário
+- **Relação com Selic**: Geralmente próxima à taxa Selic
+
+## 💼 Aplicações Práticas no Ambiente Bancário
 
 1. **Operações de Crédito**
    - Cálculo de juros em empréstimos
@@ -42,9 +47,15 @@
    - Fundos de Investimento
    - Poupança
 
-## ⚠️ Pontos de Atenção para Provas
+## ⚠️ Pontos para Memorizar
 
-1. Diferenças entre:
+- **Selic** → Sistema Especial de Liquidação e Custódia
+- **CDI** → "Taxa dos bancos"
+- **Taxa Real** = Taxa Nominal - Inflação
+
+## 🎯 Dicas para Prova
+
+1. Fique atento às diferenças entre:
    - Taxa nominal x Taxa efetiva
    - Taxa prefixada x Taxa pós-fixada
    - Taxa real x Taxa aparente
@@ -53,6 +64,14 @@
    - Conversão de taxas
    - Cálculo de juros compostos
    - Equivalência de taxas
+
+## 📝 Exemplos Práticos
+
+```python
+# Cálculo de Taxa Efetiva Anual
+TEA = (1 + taxa nominal/n)^n - 1
+# Onde n = número de períodos
+```
 
 ## 📝 Exercícios Modelo Cesgranrio
 

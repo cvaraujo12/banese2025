@@ -1,4 +1,16 @@
-# Concordância Verbal e Nominal 🔄
+---
+title: "Concordância Verbal e Nominal"
+author: "BANESE 2025 - Língua Portuguesa"
+date: "2024"
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+colorlinks: true
+---
+
+# 📚 Concordância Verbal e Nominal
+
+---
 
 ## 🎯 Guia Rápido
 - Entenda as regras básicas
@@ -6,17 +18,19 @@
 - Pratique com exemplos
 - Observe padrões
 
-## 1. Concordância Verbal 📝
+## 1. Concordância Verbal ✍️
 ### Regra Geral:
-- **Verbo concorda com o sujeito**
-  - Em número (singular/plural)
-  - Em pessoa (1ª, 2ª, 3ª)
+> O **verbo** deve concordar com o **sujeito** em:
+- Número (singular/plural)
+- Pessoa (1ª, 2ª, 3ª)
 
 ### Casos Especiais:
 1. **Sujeito Composto**:
-   - Antes do verbo → plural
-   - Depois do verbo → mais próximo
-   - Exemplo: "João e Maria chegaram" / "Chegou João e Maria"
+```
+• Antes do verbo → plural
+• Depois do verbo → mais próximo
+```
+**Exemplo**: "João e Maria chegaram" / "Chegou João e Maria"
 
 2. **Expressões Partitivas**:
    - Maioria de
@@ -30,9 +44,9 @@
 
 ## 2. Concordância Nominal 📊
 ### Regra Geral:
-- **Palavras que se referem ao substantivo concordam**:
-  - Em gênero (masculino/feminino)
-  - Em número (singular/plural)
+> Palavras que se referem ao substantivo devem concordar em:
+- Gênero (masculino/feminino)
+- Número (singular/plural)
 
 ### Casos Especiais:
 1. **Adjetivo Posposto**:
